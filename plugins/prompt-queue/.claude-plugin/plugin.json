@@ -1,0 +1,10 @@
+{
+  "name": "prompt-queue",
+  "version": "1.0.0",
+  "description": "Keeps the prompts you send while Claude works in a queue, and sends them one by one once Claude has finished. Edit, reorder or remove any of them.",
+  "author": { "name": "Florian Anthony", "url": "https://florian-anthony.ch" },
+  "homepage": "https://github.com/florian-anthony/claude-code-mods/tree/main/plugins/prompt-queue",
+  "repository": "https://github.com/florian-anthony/claude-code-mods",
+  "license": "MIT",
+  "keywords": ["mod", "queue", "prompts", "workflow"]
+}

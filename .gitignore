@@ -1,0 +1,4 @@
+# Written by `claude plugin test`, beside the engine types it generates
+plugins/*/tsconfig.json
+node_modules/
+.DS_Store
