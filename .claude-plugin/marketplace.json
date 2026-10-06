@@ -1,0 +1,18 @@
+{
+  "name": "florian-anthony",
+  "owner": {
+    "name": "Florian Anthony",
+    "url": "https://florian-anthony.ch"
+  },
+  "metadata": {
+    "description": "Mods for Claude Code by Florian Anthony"
+  },
+  "plugins": [
+    {
+      "name": "prompt-queue",
+      "source": "./plugins/prompt-queue",
+      "description": "Keeps the prompts you send while Claude works in a queue, and sends them one by one once Claude has finished. Edit, reorder or remove any of them.",
+      "category": "productivity"
+    }
+  ]
+}
